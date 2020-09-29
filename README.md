@@ -24,7 +24,7 @@ To mirroring this repository into a new python project, do as following:
 
     ```bash
     cd python-project-template.git
-    git push --mirror https://github.com/rjrpaz/new-repository.git
+    git push --mirror git@github.com:rjrpaz/new-repository.git
     ```
 
 1. Remove the temporary local repository you created earlier:
